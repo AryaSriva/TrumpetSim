@@ -1,1 +1,5 @@
 # TrumpetSim
+
+
+Author: Aryaman Srivastava
+
